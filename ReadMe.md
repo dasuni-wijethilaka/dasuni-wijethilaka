@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my University projects<br>👯 I’m looking to collaborate on designing and development<br>🤝 I’m looking for help with my skills<br>🌱 I’m currently reading for BSc. (Hons) Information Technology and management<br>💬 Ask me about full stack web development<br>⚡ Fun fact- manage things smoothly
+🔭 BSc (Hons) in Information Technology and Management – University of Moratuwa, Sri Lanka<br>👯 I’m looking to collaborate on designing and development<br>🤝 I’m looking for help with my skills<br>💬 Ask me about full stack web development<br>⚡ Fun fact- manage things smoothly
 
 
 ## 🌐 Socials:
