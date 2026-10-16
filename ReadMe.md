@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 BSc (Hons) in Information Technology and Management – University of Moratuwa, Sri Lanka<br>👯 I’m looking to collaborate on designing and development<br>🤝 I’m looking for help with my skills<br>💬 Ask me about full stack web development<br>⚡ Fun fact- manage things smoothly
+🔭 Reading for Masters in Information Systems Management - University of Colombo, Sri Lanka<br>🔭 Completed BSc (Hons) in Information Technology and Management – University of Moratuwa, Sri Lanka<br>👯 I’m looking to collaborate on designing and development<br>🤝 I’m looking for help with my skills<br>💬 Ask me about full stack web development<br>⚡ Fun fact- manage things smoothly
 
 
 ## 🌐 Socials:
